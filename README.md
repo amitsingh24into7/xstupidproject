@@ -1,0 +1,2 @@
+# xstupidproject
+generic mobile
